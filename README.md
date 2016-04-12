@@ -1,1 +1,2 @@
-# Candy_Dispenser
+# Candy Dispenser
+This is the webpage for the candy dispenser
